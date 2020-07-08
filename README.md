@@ -12,3 +12,7 @@ for ($i = $start; $i <= $tableLimit; $i++) {
 }
 
 ```
+
+```ruby
+php tables.php
+```
