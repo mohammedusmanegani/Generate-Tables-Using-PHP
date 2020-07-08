@@ -13,6 +13,8 @@ for ($i = $start; $i <= $tableLimit; $i++) {
 
 ```
 
+# Run the PHP file on cmd Line
+
 ```ruby
 php tables.php
 ```
